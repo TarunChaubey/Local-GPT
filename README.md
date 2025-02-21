@@ -28,7 +28,7 @@ The goal of this project is to set up and integrate the **llama-cpp** library wi
 ## Demo Video
 For a better understanding of the setup and usage, refer to the demo video below.
 
-[![Watch the demo video](https://youtu.be/LEBbvh6lHKQ)]
+[![Watch the demo video](https://img.youtube.com/vi/LEBbvh6lHKQ/0.jpg)](https://youtu.be/LEBbvh6lHKQ)
 
 ## Requirements
 - Python 3.x
