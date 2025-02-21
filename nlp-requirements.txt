@@ -1,0 +1,6 @@
+torch
+torchaudio
+numpy
+fastapi
+uvicorn
+llama-cpp-python
