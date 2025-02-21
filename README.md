@@ -26,9 +26,9 @@ The goal of this project is to set up and integrate the **llama-cpp** library wi
    - `Ollama-GGUF-Socket-FastAPI.py`: This script uses FastAPI to stream the token generation process over a socket connection.
 
 ## Demo Video
-For a better understanding of the setup and usage, refer to the demo video.
+For a better understanding of the setup and usage, refer to the demo video below.
 
-- [Video.wmv](GGUFModelLocal.wmv)
+[![Watch the demo video](https://youtu.be/LEBbvh6lHKQ)]
 
 ## Requirements
 - Python 3.x
