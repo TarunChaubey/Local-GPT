@@ -5,7 +5,7 @@ from llama_cpp import Llama
 
 # Initialize the Llama model
 llm = Llama(
-    model_path='LLM-Quantize-Model/qwen2.5-1.5b-instruct-q5_k_m.gguf',  # Ensure model is optimized for CPU
+    model_path='LLM-Quantize-Model/interm-vlm-2B.gguf',  # Ensure model is optimized for CPU
     # n_gpu_layers=None,  # Comment out GPU-related parameters since you're using CPU
     temperature=0.7,  # Lower temperature for less randomness, faster processing
     top_p=0.9,        # More focused sampling (decreases computational complexity)
